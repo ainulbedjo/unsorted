@@ -6,18 +6,18 @@
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/tic-tac-toe/refs/heads/main/public/screenshot/initial-state.png" alt="initial state" width="100%" />
+<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/refs/heads/main/tic-tac-toe/public/screenshot/initial-state.png" alt="initial state" width="100%" />
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/tic-tac-toe/refs/heads/main/public/screenshot/play-state.png" alt="play state" width="100%" />
+<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/refs/heads/main/tic-tac-toe/public/screenshot/play-state.png" alt="play state" width="100%" />
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/tic-tac-toe/refs/heads/main/public/screenshot/draw-state.png" alt="draw state" width="100%" />
+<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/refs/heads/main/tic-tac-toe/public/screenshot/draw-state.png" alt="draw state" width="100%" />
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/tic-tac-toe/refs/heads/main/public/screenshot/win-state.png" alt="win state" width="100%" />
+<img src="https://raw.githubusercontent.com/ainulbedjo/unsorted/refs/heads/main/tic-tac-toe/public/screenshot/win-state.png" alt="win state" width="100%" />
 </td>
 </tr>
 </table>
